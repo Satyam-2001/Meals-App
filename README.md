@@ -9,7 +9,7 @@ Commands to run the app locally
 ```
 git clone https://github.com/Satyam-2001/Meals-App
 cd Meals-App
-flutter pub add
+flutter pub get
 flutter run
 ```
 
